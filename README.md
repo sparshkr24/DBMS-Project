@@ -1,6 +1,6 @@
 
 # On The Way
-This project is an implementation of an online student counselling system for students of IIITDM Jabalpur.
+This project is an implementation of an online student counselling system for students of IIITDM Jabalpur. <br>
 Live :- https://student-counselling.herokuapp.com/
 
 ## Highlight of this project is -
